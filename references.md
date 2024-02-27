@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+This is references.md from my-resume branch
